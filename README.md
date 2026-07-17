@@ -24,4 +24,5 @@ A simple and interactive Rock Paper Scissors game built using HTML, CSS, and Jav
 
 ## Project Preview
 
-![Rock Paper Scissors Game](screenshot%202026-07-18%20001652.png)
+![Rock Paper Scissors Game](rps-preview.png)
+
